@@ -63,7 +63,7 @@ console.log(this.length);
   generatedPassword+=validChars[index]}
     this.password=generatedPassword;
    /* { const index=Math.floor(Math.random()*validChars.length);
-      this.password+=validChars[index]} will work as well*/ 
+      this.password+=validChars[index]} will work as well ggg*/ 
         
   };
 
